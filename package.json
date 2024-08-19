@@ -19,7 +19,8 @@
   },
   "pnpm": {
     "overrides": {
-      "cssesc": "./overrides/cssesc"
+      "cssesc": "./overrides/cssesc",
+      "prismjs": "./overrides/prismjs"
     }
   }
 }
